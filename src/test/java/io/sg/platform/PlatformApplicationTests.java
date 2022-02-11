@@ -8,6 +8,7 @@ class PlatformApplicationTests {
 
 	@Test
 	void contextLoads() {
+		deliberate mistake
 	}
 
 }
